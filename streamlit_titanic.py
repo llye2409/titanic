@@ -7,6 +7,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
 from sklearn import metrics
+import datetime
 
 st.title("Data Science")
 st.write("## Titanic Survival Prediction Project")
